@@ -1,0 +1,23 @@
+.homepage {
+  color: rgb(40, 205, 197);
+  font-size: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80%;
+  align-items: center;
+}
+
+.homepage-btn {
+  padding: 10px 30px;
+  border: none;
+  background: rgb(40, 205, 197);
+  border-radius: 5px;
+}
+
+.homepage-btn-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 18px;
+}
